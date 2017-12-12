@@ -1,3 +1,4 @@
+//return the number of characters of the string given in input.
 exports.run = function(input) {
-  console.log("Exercise #1");
+  return input.length;
 };
